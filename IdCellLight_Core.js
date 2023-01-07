@@ -1,7 +1,8 @@
 import React from 'react.js';
 
 function StartCore(){
-  var j 
+  var j = 7;
+  
 }
 
-export d
+export default StartCore
